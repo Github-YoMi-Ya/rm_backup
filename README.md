@@ -1,7 +1,7 @@
 # rm_backup
 此项目为rm_version 主干代码备份
 
-[docker使用配合的网址]((https://studio.foxglove.dev/))
+[docker使用配合的网址](https://studio.foxglove.dev/)
 
 ## rm_auto_aim
 rm自瞄代码
