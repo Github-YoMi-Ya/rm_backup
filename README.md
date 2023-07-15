@@ -3,6 +3,8 @@
 
 [docker使用配合的网址](https://studio.foxglove.dev/)
 
+[项目开发地址，请去此处开发](https://github.com/Github-YoMi-Ya/rm_developing_version)
+
 ## rm_auto_aim
 rm自瞄代码
 具体请参考rm_auto_aim中的readme文档
