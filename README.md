@@ -42,7 +42,7 @@ ros2 node killall
 rm自瞄代码
 具体请参考rm_auto_aim中的readme文档
 
-### rm_pioneer_gimbal_description
+### rm_gimbal_description
 RoboMaster 视觉自瞄所需的 URDF 参考
 
 ### rm_serial_driver
