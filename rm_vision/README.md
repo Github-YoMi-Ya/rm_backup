@@ -1,6 +1,6 @@
 # rm_vision
 
-<img src="docs/rm_vision.svg" alt="rm_vision" width="200" height="200">
+
 
 ## Overview
 
@@ -8,7 +8,7 @@ rm_vision 项目旨在为 RoboMaster 队伍提供一个规范、易用、鲁棒�
 
 如果本开源项目对于贵战队的视觉技术发展起到了实质性的帮助作用，请在机器人上贴上以下标签以助力该项目的推广，十分感激！
 
-[<img src="docs/rm_vision_inside.svg" alt="rm_vision_inside" width="100" height="100">](docs/rm_vision_inside.svg)
+
 
 
 
