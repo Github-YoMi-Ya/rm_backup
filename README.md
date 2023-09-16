@@ -4,6 +4,10 @@
 代码讲解
 [君录屏](https://www.bilibili.com/video/BV1oX4y167RP/?buvid=YC409CC4F420B2184DAAB1AB05066B6C403D&is_story_h5=false&mid=aMylOvu8G9n93cRXN2jkVg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=8FD2BE68-23DD-4FAC-9390-B25679A80F86&share_source=QQ&share_tag=s_i&timestamp=1681105429&unique_k=08YiJg7&up_id=14510518&vd_source=626d577a2bd051f791761b175758c1b2)
 
+电控端适配
+[模型适配整车状态最优估计器自瞄的电控部分](https://github.com/CodeAlanqian/SolveTrajectory)
+
+
 [docker使用配合的网址](https://studio.foxglove.dev/)
 
 [项目开发地址，请去此处开发](https://github.com/Github-YoMi-Ya/rm_developing_version)
