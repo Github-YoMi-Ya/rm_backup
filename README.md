@@ -55,3 +55,6 @@ Docker部署文件
 
 ### ros2_hik_camera
 海康工业相机ros2的包
+
+### ros2_mindvision_camera
+海康工业相机ros2的包
