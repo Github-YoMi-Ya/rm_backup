@@ -8,6 +8,32 @@
 
 [项目开发地址，请去此处开发](https://github.com/Github-YoMi-Ya/rm_developing_version)
 
+## 食用方法
+
+注意：新版本需要插上串口才能正常启动否则会进入报错自动关闭
+
+### 启动全部节点launch文件
+
+无硬件：ros2 launch rm_vision_bringup no_hardware.launch.py
+
+有硬件：ros2 launch rm_vision_bringup vision_bringup.launch.py
+
+### 开启串口
+sudo chmod 777 /dev/ttyUSB0
+
+### 启动可视化：
+ros2 launch foxglove_bridge foxglove_bridge_launch.xml port:=8765
+
+### 浏览器打开可视化  
+https://studio.foxglove.dev/
+
+### 查看相机帧率
+ros2 topic hz /camera_info
+
+### 关闭所有节点
+ros2 node killall
+
+
 ## rm_auto_aim
 rm自瞄代码
 具体请参考rm_auto_aim中的readme文档
