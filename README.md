@@ -33,21 +33,21 @@ ros2 topic hz /camera_info
 ### 关闭所有节点
 ros2 node killall
 
-
-## rm_auto_aim
+## 项目结构
+### rm_auto_aim
 rm自瞄代码
 具体请参考rm_auto_aim中的readme文档
 
-## rm_pioneer_gimbal_description
+### rm_pioneer_gimbal_description
 RoboMaster 视觉自瞄所需的 URDF 参考
 
-## rm_serial_driver
+### rm_serial_driver
 实现部分与电控通讯功能
 具体参考文件中的readme
 
-## rm_vision
+### rm_vision
 Docker部署文件
 项目启动脚本
 
-## ros2_hik_camera
+### ros2_hik_camera
 海康工业相机ros2的包
